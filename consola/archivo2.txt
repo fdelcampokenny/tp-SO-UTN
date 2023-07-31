@@ -1,0 +1,5 @@
+WAIT RA
+F_OPEN Consoles
+SET BX JEJE
+F_CLOSE Consoles
+EXIT

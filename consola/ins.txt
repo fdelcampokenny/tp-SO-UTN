@@ -1,0 +1,3 @@
+SET AX EHHH
+I/O 15
+EXIT

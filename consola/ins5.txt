@@ -1,0 +1,3 @@
+F_OPEN Consoles
+F_CLOSE Consoles
+EXIT

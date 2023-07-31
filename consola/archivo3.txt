@@ -1,0 +1,4 @@
+F_OPEN Consoles
+SET AX xdxd
+F_CLOSE Consoles
+EXIT

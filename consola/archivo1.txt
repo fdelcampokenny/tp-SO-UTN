@@ -1,0 +1,5 @@
+F_OPEN Consoles
+F_TRUNCATE Consoles 256
+I/O 30
+F_CLOSE Consoles
+EXIT
